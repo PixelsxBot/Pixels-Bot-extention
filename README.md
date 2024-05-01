@@ -26,3 +26,6 @@ Ill be happy to explain in more detail.
 Reach out to me and lets talk about it.
 
 (There is no discord server that sell my bot and i am the sole owner and developer of these bots.Do not get scammed and check everything)
+This is a short video of Task delivery bot
+(Based on useer request , i added watermark so that no one can trick people for my bot.yes , others did that to random user)
+https://streamable.com/6o1sf4
