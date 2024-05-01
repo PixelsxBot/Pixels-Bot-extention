@@ -30,4 +30,4 @@ This is a short video of Task delivery bot
 (Based on user request , i added watermark so that no one can trick people for my bot.yes , others did that to random user)
 https://streamable.com/6o1sf4
 
-Price will change after user number 50 (27/50)
+Price will change after user number 50 (34/50)
