@@ -29,3 +29,6 @@ Reach out to me and lets talk about it.
 This is a short video of Task delivery bot
 (Based on useer request , i added watermark so that no one can trick people for my bot.yes , others did that to random user)
 https://streamable.com/6o1sf4
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/6o1sf4?autoplay=1&muted=1&nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+Price will change after user number 50 (27/50)
